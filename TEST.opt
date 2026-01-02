@@ -182,7 +182,7 @@ BEGIN
  Item[2]:=14;
  Item[3]:=15;
  ItemCount:=4;
- Sumcheck:=44;
+ Sumcheck:=45;
  Selected:=19;
 END;
 Frame[0]:=
